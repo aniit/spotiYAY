@@ -1,2 +1,3 @@
-# reimagined-seamlessly
-This project is aimed at automating posting stories from Spotify to Instagram (initially and later on to other social media)
+# spotiYAY
+This project is aimed at automatically creating a list of favorite tracks from Spotify's recently played
+This uses Python, Spotify's API and a whole lot of love for music!
